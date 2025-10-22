@@ -1,5 +1,0 @@
-
-DIEGO CERDA SEGUEL — GEOTENSORIAL LAB
-Ejecutado en entorno Colab — Versión 2.0 (Octubre 2025)
-Timestamp local: 2025-10-21 20:28:06 -03
-'Este código midió por primera vez la curvatura del sentido.'
