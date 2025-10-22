@@ -48,7 +48,7 @@ Output included:
 - Statistically significant separation of coherent vs random linguistic states (p < 0.005)  
 - Baseline evidence of the 410M *catastrophic phase collapse*  
 
----
+--- 
 
 ## 🧮 Theoretical Context
 
