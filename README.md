@@ -19,7 +19,10 @@ demonstrating that semantic emergence follows **harmonic laws of resonance**
 rather than smooth statistical scaling.  
 
 This code provided the analytic foundation for *“The Meaning — A Purloined Letter in Plain Sight”*,  
-where the first evidence of **discrete harmonic quantization of meaning** was documented.  
+where the first evidence of **discrete harmonic quantization of meaning** was documented. 
+
+This experiment provides the first empirical evidence that semantic embeddings 
+exhibit measurable geometric structure — the curvature of meaning.
 
 ---
 
