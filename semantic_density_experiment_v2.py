@@ -10,6 +10,35 @@ from scipy import stats
 import matplotlib.pyplot as plt
 from typing import Dict, List, Tuple
 
+# ============================================================
+#  SELLO DE EJECUCIÓN - DIEGO CERDA SEGUEL
+# ============================================================
+
+from datetime import datetime
+from zoneinfo import ZoneInfo  # ya viene con Python 3.9+
+
+# Definir zona horaria local
+TZ = ZoneInfo("America/Santiago")
+
+# Capturar la hora exacta de ejecución
+RUN_TIMESTAMP = datetime.now(TZ).strftime("%Y-%m-%d %H:%M:%S %Z")
+
+# Imprimir y registrar en texto
+print("⏱️ Acta de Ejecución: ", RUN_TIMESTAMP)
+
+# Crear una breve nota humanista dentro del archivo
+EXECUTION_NOTE = f"""
+DIEGO CERDA SEGUEL — GEOTENSORIAL LAB
+Ejecutado en entorno Colab — Versión 2.0 (Octubre 2025)
+Timestamp local: {RUN_TIMESTAMP}
+'Este código midió por primera vez la curvatura del sentido.'
+"""
+print(EXECUTION_NOTE)
+
+# Guardar la nota en un archivo de acta ligera
+with open("EXECUTION_RECORD_TdST_OCT_2025.txt", "w", encoding="utf-8") as f:
+    f.write(EXECUTION_NOTE)
+
 class SemanticDensityAnalyzer:
     """
     Mide densidad semántica con múltiples métricas complementarias
@@ -218,4 +247,5 @@ if __name__ == "__main__":
     results = run_controlled_experiment()
     plot_multimetric_analysis(results)
     
+
     print("\n✅ Experimento completado con controles rigurosos")
