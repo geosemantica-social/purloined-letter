@@ -21,9 +21,6 @@ rather than smooth statistical scaling.
 This code provided the analytic foundation for *“The Meaning — A Purloined Letter in Plain Sight”*,  
 where the first evidence of **discrete harmonic quantization of meaning** was documented. 
 
-This experiment provides the first empirical evidence that semantic embeddings 
-exhibit measurable geometric structure — the curvature of meaning.
-
 ---
 
 ## ⚖️ Tensorial Prediction
@@ -64,7 +61,8 @@ Key relations:
 - **Resonant Ratios** correspond to discrete reorganizations of semantic topology.  
 
 These experiments demonstrate that **meaning is measurable** as a geometric variable,  
-bridging empirical machine learning and ontological philosophy.  
+bridging empirical machine learning and ontological philosophy. This experiment provides the first empirical evidence that semantic embeddings 
+exhibit measurable geometric structure — the curvature of meaning.
 
 ---
 
